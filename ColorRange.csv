@@ -24,7 +24,7 @@ BIH,Bosnia and Herzegovina,0
 BWA,Botswana,0
 BRA,Brazil,0
 BRN,Brunei Darussalam,0
-BGR,Bulgaria,1
+BGR,Bulgaria,0
 BFA,Burkina Faso,0
 BDI,Burundi,0
 KHM,Cambodia,0
@@ -80,14 +80,14 @@ IRN,"Iran, Islamic Republic of",0
 IRQ,Iraq,0
 IRL,Ireland,1
 ISR,Israel,1
-ITA,Italy,0
+ITA,Italy,1
 JAM,Jamaica,0
 JPN,Japan,0
 JOR,Jordan,0
 KAZ,Kazakhstan,0
 KEN,Kenya,0
 KIR,Kiribati,1
-PRK,"Korea, Democratic People's Repub",1
+PRK,"Korea, Democratic People's Repub",0
 KOR,"Korea, Republic of",1
 KWT,Kuwait,0
 KGZ,Kyrgyzstan,0
@@ -175,19 +175,19 @@ TGO,Togo,0
 TON,Tonga,0
 TTO,Trinidad and Tobago,0
 TUN,Tunisia,0
-TUR,Turkey,0
+TUR,Turkey,1
 TKM,Turkmenistan,0
 TUV,Tuvalu,0
 UGA,Uganda,0
 UKR,Ukraine,0
 ARE,United Arab Emirates,0
-GBR,United Kingdom,1
+GBR,United Kingdom,0
 USA,United States,1
 URY,Uruguay,0
 UZB,Uzbekistan,0
 VUT,Vanuatu,0
 VEN,"Venezuela, Bolivarian Republic o",0
-VNM,Viet Nam,0
+VNM,Vietnam,0
 YEM,Yemen,0
 ZMB,Zambia,0
 ZWE,Zimbabwe,0
